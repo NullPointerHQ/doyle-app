@@ -1,0 +1,14 @@
+# Local virtual environment
+.conda/
+env/
+venv/
+
+# Python cache & compiled files
+__pycache__/
+*.pyc
+
+# Local SQLite databases
+*.db
+
+# VS Code directory
+.vscode/
