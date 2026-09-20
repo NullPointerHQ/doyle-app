@@ -8,7 +8,7 @@ __pycache__/
 *.pyc
 
 # Local SQLite databases
-*.db
+**/*.db
 
 # VS Code directory
 .vscode/

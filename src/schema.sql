@@ -2,7 +2,7 @@
 --          To-Do List App Database
 -- =============================================
 
-DROP TABLE IF EXISTS task; -- TO DO: Come up with name for app, replace 'app' with name
+DROP TABLE IF EXISTS task; 
 
 -- Task Entity
 CREATE TABLE IF NOT EXISTS task(
